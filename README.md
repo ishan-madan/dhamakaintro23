@@ -1,4 +1,4 @@
- # $\textsf{\color{skyblue} Duke Dhamaka Intro Video 2024}$
+ # $\textsf{\color{skyblue} Duke Dhamaka Intro Video 2023}$
 
 ## $\textsf{\color{lightgreen} Description}$
 This project was Duke Dhamaka's introduction video for the 2023 season, premiered at Derby City Dhoom 2023 at UK Louisville. It is designed to introduce the team members and set the energetic and vibrant mood for our performance. Duke Dhamaka is renowned for its spirited performances at national competitions and prestigious events like Duke's Centennial Celebration and Awaaz, embodying the essence of cultural passion and rhythmic excellence.
